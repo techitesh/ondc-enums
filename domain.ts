@@ -1,0 +1,5 @@
+export enum DOMAIN_ENUM {
+  "LOAN" = "ONDC:FIS12",
+  "INSURANCE" = "ONDC:FIS13",
+  "MUTUAL_FUNDS" = "ONDC:FIS14",
+}
